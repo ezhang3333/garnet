@@ -1,0 +1,93 @@
+libs/server/StoreWrapper.cs
+  s_0050c415b94fcf::t_3e05cbbb9fedd6 161-174,754-755,782-783
+  s_79e7e51052a0c4::t_30672b75082a78 160,261,752-753,756,780-781,784,934
+libs/server/Cluster/IClusterProvider.cs
+  s_79e7e51052a0c4::t_33b0d53caea199 6,21-25
+libs/server/Storage/Functions/ObjectStore/ReadMethods.cs
+  s_79e7e51052a0c4::t_1c3466e6d3115f 28-29
+website/docs/commands/server.md
+  s_79e7e51052a0c4::t_ed53f39c6a91bb 459-467,469-476
+  s_0050c415b94fcf::t_799cbbdb9be667 468
+libs/server/Objects/ItemBroker/CollectionItemBroker.cs
+  s_0050c415b94fcf::t_799cbbdb9be667 61-62,716-724
+  s_79e7e51052a0c4::t_1c3466e6d3115f 75-77,765
+libs/server/Storage/Functions/UnifiedStore/ReadMethods.cs
+  s_79e7e51052a0c4::t_1c3466e6d3115f 24-25
+test/standalone/Garnet.test.acl/Resp/ACL/RespCommandTests.cs
+  s_79e7e51052a0c4::t_b113b868a9ec25 892-903
+website/docs/commands/api-compatibility.md
+  s_79e7e51052a0c4::t_7d34c334e0ed4d 76,83,297
+libs/server/Resp/Parser/RespCommandHashLookupData.cs
+  s_79e7e51052a0c4::t_ee0aea467b1fbc 276,384-385
+libs/server/Resp/ShutdownCommand.cs
+  s_79e7e51052a0c4::t_99175b1e78bc86 34-48
+  s_79e7e51052a0c4::t_c3cbf417bdae3f 92,94,98-101,103-105,110
+  s_0050c415b94fcf::t_7bc56b16496566 135
+  s_79e7e51052a0c4::t_51bc9d81e12255 1-33,49-91,93,95-97,102,106-109,111-134
+libs/server/Resp/RespServerSession.cs
+  s_79e7e51052a0c4::t_1c3466e6d3115f 281,388,579,582,659,728-729,733,1332-1336
+  s_79e7e51052a0c4::t_ee0aea467b1fbc 1092-1094
+  s_0050c415b94fcf::t_52ccad8f064b43 734
+playground/CommandInfoUpdater/SupportedCommand.cs
+  s_79e7e51052a0c4::t_ee0aea467b1fbc 57-58,286
+libs/server/Resp/ClientCommands.cs
+  s_0050c415b94fcf::t_3e05cbbb9fedd6 23,26
+  s_79e7e51052a0c4::t_1c3466e6d3115f 19-22,24-25,27-54
+  s_79e7e51052a0c4::t_30672b75082a78 55-83
+test/standalone/Garnet.test/RespCommandTests.cs
+  s_79e7e51052a0c4::t_f4f54571388040 536-537
+libs/cluster/Server/ClusterProvider.Shutdown.cs
+  s_79e7e51052a0c4::t_889b89b6d4853e 37
+  s_0050c415b94fcf::t_7bc56b16496566 54
+  s_79e7e51052a0c4::t_33b0d53caea199 1-36,39-53
+  s_0050c415b94fcf::t_3e05cbbb9fedd6 38
+libs/resources/RespCommandsDocs.json
+  s_79e7e51052a0c4::t_65ac9ab4066788 1138-1174,7557-7608
+  s_79e7e51052a0c4::t_585b1ddb1e92cf 1256-1262
+  s_0050c415b94fcf::t_35fb6882c25e15 7609-7611
+libs/resources/RespCommandsInfo.json
+  s_79e7e51052a0c4::t_585b1ddb1e92cf 602-604
+  s_79e7e51052a0c4::t_65ac9ab4066788 566-571,600,605-606,4827-4832
+  s_0050c415b94fcf::t_e38699b183452b 565,601,4833
+libs/server/ClientPauseManager.cs
+  s_79e7e51052a0c4::t_30672b75082a78 1-39,41-42,49-67,69-78,80-91,93-119,121,123-126,129-144
+  s_0050c415b94fcf::t_3e05cbbb9fedd6 40,92,120,122,127-128
+  s_0050c415b94fcf::t_7bc56b16496566 145
+  s_0050c415b94fcf::t_799cbbdb9be667 43-48,68,79
+libs/host/GarnetServer.cs
+  s_79e7e51052a0c4::t_33b0d53caea199 14,53-60,311-315,567-569,571-572,574-579,581-586,592
+website/docs/commands/client.md
+  s_79e7e51052a0c4::t_7d34c334e0ed4d 168-199
+libs/server/Resp/Parser/RespCommand.cs
+  s_79e7e51052a0c4::t_ee0aea467b1fbc 300-301,323,489-490
+main/GarnetServer/Program.cs
+  s_79e7e51052a0c4::t_1c589ca900be92 26
+  s_79e7e51052a0c4::t_b543c2e362c235 4
+test/standalone/Garnet.test/RespServerControlTests.cs
+  s_0050c415b94fcf::t_7bc56b16496566 202
+  s_79e7e51052a0c4::t_8ef1651ca937be 1-201
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d912467ad2a9c58bdf74e72de6daff602e61ad56",
+  "prompts": {},
+  "sessions": {
+    "s_0050c415b94fcf": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09e2c-afdf-75e0-b7c1-10ee39f0b3eb",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    },
+    "s_79e7e51052a0c4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a093cc-285d-7c72-95b9-37c4ea31563d",
+        "model": "gpt-reserve"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
