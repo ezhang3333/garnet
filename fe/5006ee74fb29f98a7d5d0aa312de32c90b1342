@@ -1,0 +1,23 @@
+libs/server/ClientPauseManager.cs
+  s_17074fde453056::t_e57098935a6766 139-144
+libs/server/Resp/RespServerSession.cs
+  s_17074fde453056::t_e57098935a6766 1334
+libs/server/Resp/ClientCommands.cs
+  s_17074fde453056::t_97da8bb09e3842 28-31,43-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "fe5006ee74fb29f98a7d5d0aa312de32c90b1342",
+  "prompts": {},
+  "sessions": {
+    "s_17074fde453056": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ae5a585b-c055-47fe-8086-139b1669f43b",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
