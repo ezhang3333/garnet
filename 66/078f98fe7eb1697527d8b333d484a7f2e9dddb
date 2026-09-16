@@ -1,0 +1,22 @@
+test/cluster/Garnet.test.cluster.replication/ReplicationTests/ClusterReplicationBaseTests.cs
+  s_e31074f77638e7::t_eafffab5ce5274 816-853
+libs/cluster/Server/Replication/CheckpointStore.cs
+  s_e31074f77638e7::t_9fc2c42a68f999 185
+  s_e31074f77638e7::t_b1b9e7c1985a0b 184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "66078f98fe7eb1697527d8b333d484a7f2e9dddb",
+  "prompts": {},
+  "sessions": {
+    "s_e31074f77638e7": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ac44-ba4b-79a0-81db-fb8af5ee2bad",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
