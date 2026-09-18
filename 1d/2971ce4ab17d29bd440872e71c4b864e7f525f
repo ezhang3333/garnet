@@ -1,0 +1,19 @@
+test/cluster/Garnet.test.cluster.replication/ReplicationTests/ClusterReplicationBaseTests.cs
+  s_468a221c635da0::t_c331b2013247ce 860-951
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1d2971ce4ab17d29bd440872e71c4b864e7f525f",
+  "prompts": {},
+  "sessions": {
+    "s_468a221c635da0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a1183ce3-b8a2-4e39-b42d-8377739f7d8c",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
