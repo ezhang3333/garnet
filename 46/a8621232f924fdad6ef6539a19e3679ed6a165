@@ -1,0 +1,22 @@
+test/standalone/Garnet.test/GarnetServerConfigTests.cs
+  s_bb6b9eba7ce6aa::t_75f34cc0aa1e6c 28-34,2419
+  s_bb6b9eba7ce6aa::t_969ab859420f65 27
+main/GarnetServer/Program.cs
+  s_bb6b9eba7ce6aa::t_75f34cc0aa1e6c 13,26,31,99
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "46a8621232f924fdad6ef6539a19e3679ed6a165",
+  "prompts": {},
+  "sessions": {
+    "s_bb6b9eba7ce6aa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0cb3f-f13a-74d1-9386-68e9371f70cd",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
