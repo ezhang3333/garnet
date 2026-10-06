@@ -1,0 +1,35 @@
+libs/storage/Tsavorite/cs/test/RecordTriggersExtTests.cs
+  s_d6ffc444937fea::t_3e82183400fe62 45-46,63-65,131-190
+  s_d6ffc444937fea::t_03b148f4208617 191
+libs/server/Databases/MultiDatabaseManager.cs
+  s_d6ffc444937fea::t_ee601ee4dea0a3 165-171,212-222
+libs/storage/Tsavorite/cs/src/core/ClientSession/SessionFunctionsWrapper.cs
+  s_d6ffc444937fea::t_ee601ee4dea0a3 171-174
+libs/server/Databases/DatabaseManagerBase.cs
+  s_d6ffc444937fea::t_ee601ee4dea0a3 44-46
+  s_d6ffc444937fea::t_b5f5d9b8f3e465 43
+libs/server/Databases/IDatabaseManager.cs
+  s_d6ffc444937fea::t_ee601ee4dea0a3 102-106
+  s_d6ffc444937fea::t_3daca927e5c62c 101
+test/standalone/Garnet.test/ScheduledCheckpointTests.cs
+  s_d6ffc444937fea::t_3e82183400fe62 196-224,234-247
+  s_d6ffc444937fea::t_54ccf574484290 225-233
+libs/server/StoreWrapper.cs
+  s_d6ffc444937fea::t_a2234c989ed399 434-436,728
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "c3fddde1db9f4a6a0c5e466eb7af5b18399fdede",
+  "prompts": {},
+  "sessions": {
+    "s_d6ffc444937fea": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0f409-64ea-75c3-bdbe-48aa8003049d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}

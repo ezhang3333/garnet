@@ -1,0 +1,117 @@
+libs/server/Storage/Functions/ObjectStore/RMWMethods.cs
+  s_5b93cf592ee298::t_51f44c84f46b3f 258
+  s_5b93cf592ee298::t_b9242dbd399960 124,209,229,253-257,259-262
+libs/server/Servers/GarnetServerOptions.cs
+  s_5b93cf592ee298::t_ef53356ddb6fa7 215
+  s_f0be37d72729a4::t_7c1b0bd3fb72a0 216-219
+libs/server/Objects/SortedSet/SortedSetObjectImpl.cs
+  s_5b93cf592ee298::t_51f44c84f46b3f 965,968
+libs/storage/Tsavorite/cs/src/core/Index/Interfaces/CallbackInfos.cs
+  s_5b93cf592ee298::t_b9242dbd399960 161-164
+  s_5b93cf592ee298::t_d0f1f13000678a 160
+libs/storage/Tsavorite/cs/src/core/Index/Tsavorite/Implementation/InternalRMW.cs
+  s_f0be37d72729a4::t_58bfa47a9715b6 172-173,434-435
+  s_5b93cf592ee298::t_1940acbb9f5e90 584-586,740-741,773-774,785,787-789
+libs/storage/Tsavorite/cs/src/core/Index/Tsavorite/Implementation/InternalDelete.cs
+  s_f0be37d72729a4::t_58bfa47a9715b6 130-131
+libs/server/Databases/DatabaseManagerBase.cs
+  s_f0be37d72729a4::t_216143b7cc8304 257-258,271,280-284,379
+  s_f0be37d72729a4::t_c221cf50e43cff 411
+libs/server/Storage/Functions/GarnetRecordTriggers.cs
+  s_5b93cf592ee298::t_d14d7c15cda96f 42-46
+  s_5b93cf592ee298::t_2ad085e38d7f0d 56
+  s_f0be37d72729a4::t_61dc089ad17273 24-25,47,52,55,57-60
+website/docs/getting-started/configuration.md
+  s_f0be37d72729a4::t_fc34854614e8f8 140
+  s_5b93cf592ee298::t_efb19b87390284 257-258
+  s_5b93cf592ee298::t_1940acbb9f5e90 261
+  s_f0be37d72729a4::t_08f8983d0329cd 253-256,259-260,262-266
+website/docs/commands/checkpoint.md
+  s_f0be37d72729a4::t_08f8983d0329cd 17-18,67
+libs/storage/Tsavorite/cs/src/core/Index/StoreFunctions/IStoreFunctions.cs
+  s_f0be37d72729a4::t_2009263a8e85b3 68-73
+test/cluster/Garnet.test.cluster/ScheduledCheckpointClusterTests.cs
+  s_f0be37d72729a4::t_e801b619f85f8f 66-86
+  s_f0be37d72729a4::t_a972b471065721 1-65,87-88
+libs/server/Objects/Hash/HashObjectImpl.cs
+  s_5b93cf592ee298::t_51f44c84f46b3f 245,247
+libs/server/GarnetDatabase.cs
+  s_5b93cf592ee298::t_d14d7c15cda96f 171-175
+  s_f0be37d72729a4::t_61dc089ad17273 12-16,19,21,36,44-45,108-111,176-177
+  s_f0be37d72729a4::t_7c38fa5966ec6b 178,192,213-215
+  s_f0be37d72729a4::t_230042344ffb5b 217
+  s_5b93cf592ee298::t_fcfe8a1c80f637 11,112
+  s_5b93cf592ee298::t_2ad085e38d7f0d 17-18,20,22-30,33,37-43
+  s_5b93cf592ee298::t_1940acbb9f5e90 31-32,34-35
+libs/server/Config/RuntimeServerConfig.cs
+  s_f0be37d72729a4::t_7c1b0bd3fb72a0 222-223,280,560-562,568-570
+  s_5b93cf592ee298::t_1940acbb9f5e90 567
+  s_5b93cf592ee298::t_2ad085e38d7f0d 47-54,466-480,563-566
+libs/server/Storage/Functions/MainStore/RMWMethods.cs
+  s_5b93cf592ee298::t_b9242dbd399960 444
+  s_5b93cf592ee298::t_51f44c84f46b3f 445
+test/standalone/Garnet.test/ScheduledCheckpointTests.cs
+  s_f0be37d72729a4::t_929c56fba6718f 174-188,194-224
+  s_f0be37d72729a4::t_bebd960b83b8a6 235,237,245-248
+  s_5b93cf592ee298::t_51f44c84f46b3f 6,10,33,40,66-69,78-79,142-143,158,287-359,361-421,469-482
+  s_5b93cf592ee298::t_1940acbb9f5e90 167
+  s_f0be37d72729a4::t_2bc4edb580ac71 41,249-286
+  s_5b93cf592ee298::t_efb19b87390284 7,70-77,80-128,132-141,360
+  s_5b93cf592ee298::t_ef0db4f3d6b20a 22
+  s_f0be37d72729a4::t_c583db10719d4d 189-193
+  s_5b93cf592ee298::t_e2be7335d76848 144-157,422-468
+  s_5b93cf592ee298::t_0a483a32f49001 129-131
+  s_f0be37d72729a4::t_e2eccfc0d809bc 1-5,8-9,11-21,23-32,34-39,42-65,159-166,168-173,225-234,236,238-244,483-485
+libs/storage/Tsavorite/cs/src/core/ClientSession/SessionFunctionsWrapper.cs
+  s_5b93cf592ee298::t_b9242dbd399960 178-187,195,201-202
+  s_f0be37d72729a4::t_2009263a8e85b3 32-38,68,76,85,95,105,116,157,260
+libs/server/TaskManager/TaskType.cs
+  s_5b93cf592ee298::t_48a5e7fa5b84b5 22
+  s_f0be37d72729a4::t_7c1b0bd3fb72a0 23-26,80
+libs/host/Configuration/Options.cs
+  s_f0be37d72729a4::t_7c1b0bd3fb72a0 268-270,950
+  s_5b93cf592ee298::t_7a7eeff2498e73 267
+libs/storage/Tsavorite/cs/src/core/Index/StoreFunctions/StoreFunctions.cs
+  s_f0be37d72729a4::t_2009263a8e85b3 101-107
+libs/server/StoreWrapper.cs
+  s_5b93cf592ee298::t_1940acbb9f5e90 157-158,712,718-719,722,731,742-747,749-759,761-777,1057,1126
+  s_5b93cf592ee298::t_2ad085e38d7f0d 227-232
+  s_5b93cf592ee298::t_12f986da72e7ee 721,748
+  s_5b93cf592ee298::t_a316f2c1f071b3 1128
+  s_f0be37d72729a4::t_216143b7cc8304 713-717,720,723-730,732-741,760,778-790,1103,1124-1125,1127
+libs/host/GarnetServer.cs
+  s_f0be37d72729a4::t_61dc089ad17273 432-433,436,475-476,501
+libs/server/Databases/MultiDatabaseManager.cs
+  s_f0be37d72729a4::t_c221cf50e43cff 725-726
+  s_f0be37d72729a4::t_216143b7cc8304 205-206
+libs/storage/Tsavorite/cs/src/core/Index/StoreFunctions/IRecordTriggers.cs
+  s_f0be37d72729a4::t_2009263a8e85b3 66-71
+libs/host/defaults.conf
+  s_f0be37d72729a4::t_7c1b0bd3fb72a0 196-198,559
+libs/server/Config/ServerConfigType.cs
+  s_5b93cf592ee298::t_1940acbb9f5e90 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "5b66df5657c0c26b4300b1a6ac5d533d0509e5ba",
+  "prompts": {},
+  "sessions": {
+    "s_5b93cf592ee298": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0eeea-0752-7a02-9b37-168ad19afba2",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    },
+    "s_f0be37d72729a4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d0e8-2e82-7e51-b43f-0c428f857f9e",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
