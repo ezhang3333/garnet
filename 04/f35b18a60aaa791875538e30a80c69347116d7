@@ -1,0 +1,21 @@
+test/testcerts/garnet-ca.crt
+  s_90af031dc07abd::t_709d68416c6d27 2-12
+test/testcerts/garnet-cert.crt
+  s_90af031dc07abd::t_709d68416c6d27 2-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "04f35b18a60aaa791875538e30a80c69347116d7",
+  "prompts": {},
+  "sessions": {
+    "s_90af031dc07abd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a10e1d-d63e-7683-8004-0804dfcccf1d",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
