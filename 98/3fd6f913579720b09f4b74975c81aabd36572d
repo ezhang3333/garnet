@@ -1,0 +1,36 @@
+libs/server/StoreWrapper.cs
+  s_7d9e757452bc1a::t_6ee413cef5b11c 713-715,794-805,1141-1142
+test/standalone/Garnet.test/ScheduledCheckpointTests.cs
+  s_7d9e757452bc1a::t_6ee413cef5b11c 183,188,191,197,209,213
+libs/server/TaskManager/TaskManager.cs
+  s_02304ff4985ebe::t_67fb389cae7117 41
+  s_7d9e757452bc1a::t_6ee413cef5b11c 42-54
+libs/server/Config/RuntimeServerConfig.cs
+  s_7d9e757452bc1a::t_6ee413cef5b11c 540-542
+test/cluster/Garnet.test.cluster/ScheduledCheckpointClusterTests.cs
+  s_7d9e757452bc1a::t_6ee413cef5b11c 38-43,51,72-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "983fd6f913579720b09f4b74975c81aabd36572d",
+  "prompts": {},
+  "sessions": {
+    "s_02304ff4985ebe": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1136f-2d56-7a52-a00b-dee3b4e195e5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    },
+    "s_7d9e757452bc1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1136f-995d-7e43-a513-f0589883ce59",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
