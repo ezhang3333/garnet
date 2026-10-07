@@ -1,0 +1,27 @@
+libs/server/StoreWrapper.cs
+  s_7d9e757452bc1a::t_c5376123f9c516 1231
+test/cluster/Garnet.test.cluster/ScheduledCheckpointClusterTests.cs
+  s_7d9e757452bc1a::t_c5376123f9c516 98
+libs/server/TaskManager/TaskManager.cs
+  s_7d9e757452bc1a::t_c5376123f9c516 200
+libs/server/Config/RuntimeServerConfig.cs
+  s_7d9e757452bc1a::t_c5376123f9c516 671
+test/standalone/Garnet.test/ScheduledCheckpointTests.cs
+  s_7d9e757452bc1a::t_c5376123f9c516 394
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73e9e0361164371cebd0b139fff8ff2272d3e7f5",
+  "prompts": {},
+  "sessions": {
+    "s_7d9e757452bc1a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1136f-995d-7e43-a513-f0589883ce59",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Ethan Zhang <ezhang3333@gmail.com>"
+    }
+  }
+}
